@@ -91,7 +91,7 @@ Develop a RESTful API for managing personal financial records. Users can record 
     - **Response**: `{ "total_income": 5000, "total_expenses": 500, "balance": 4500 }`
 
 **ScreenShot**
-![Postman API Call - Add Transaction](./assets/transactionSumm.png)
+![Postman API Call - Add Transaction](./assets/trasanctionSumm.png)
 
 ### Postman Screenshots:
 Include screenshots of each API call demonstrating the expected behavior.
