@@ -34,7 +34,7 @@ Develop a RESTful API for managing personal financial records. Users can record 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repository-url.git
+    git clone https://github.com/AniketShinde09/Aniket_Shinde_Backend_Developer
     cd your-repository
     ```
 
